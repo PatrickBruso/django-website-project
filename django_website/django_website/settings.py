@@ -130,3 +130,4 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CRISPY_TEMPLATE_PACK = 'bootstrap4'  # change from boostrap4 to bootstrap5? but need to double check
 
 LOGIN_REDIRECT_URL = 'blog-home'
+LOGIN_URL = 'login'
