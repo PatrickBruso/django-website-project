@@ -117,3 +117,4 @@ GitHub.sublime-settings
 
 # Development Notes #
 notes.txt
+/django_website/posts.json
